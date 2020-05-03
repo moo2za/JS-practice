@@ -1,0 +1,17 @@
+@import "reset";
+@import "_mixins";
+@import "_variables";
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&display=swap');
+
+* {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+body {
+  background-color: peru;
+}
+
+h1 {
+  color: white;
+}
